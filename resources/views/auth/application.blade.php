@@ -9,7 +9,7 @@
       </div>
         <!--</a>-->
     <br>
-        <a href="{{asset('assets_login/app-release.apk')}}" style="text-decoration: none">
+        <a href="{{asset('assets_login/projet_messenger.apk')}}" style="text-decoration: none">
         <div class="bubble">
             <div class="bubble-text3">
             <img src="{{asset('assets_login/android.png')}}" width="50px" height="50px">
